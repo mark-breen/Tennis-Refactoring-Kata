@@ -1,7 +1,6 @@
 using System;
-using NUnit.Framework;
 
-namespace Tennis
+namespace Tennis.Tests
 {
     [TestFixture( 0,  0, "Love-All")]
     [TestFixture( 1,  1, "Fifteen-All")]
