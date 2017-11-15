@@ -1,0 +1,10 @@
+C:\_repos\refactoringChallenges\tennis\csharp\Tennis.Tests\obj\Debug\Tennis.Tests.csprojResolveAssemblyReference.cache
+C:\_repos\refactoringChallenges\tennis\csharp\Tennis.Tests\obj\Debug\Tennis.Tests.csproj.CoreCompileInputs.cache
+C:\_repos\refactoringChallenges\tennis\csharp\Tennis.Tests\bin\Debug\Tennis.Tests.dll
+C:\_repos\refactoringChallenges\tennis\csharp\Tennis.Tests\bin\Debug\Tennis.Tests.pdb
+C:\_repos\refactoringChallenges\tennis\csharp\Tennis.Tests\bin\Debug\nunit.framework.dll
+C:\_repos\refactoringChallenges\tennis\csharp\Tennis.Tests\bin\Debug\Tennis.dll
+C:\_repos\refactoringChallenges\tennis\csharp\Tennis.Tests\bin\Debug\Tennis.pdb
+C:\_repos\refactoringChallenges\tennis\csharp\Tennis.Tests\bin\Debug\nunit.framework.xml
+C:\_repos\refactoringChallenges\tennis\csharp\Tennis.Tests\obj\Debug\Tennis.Tests.dll
+C:\_repos\refactoringChallenges\tennis\csharp\Tennis.Tests\obj\Debug\Tennis.Tests.pdb

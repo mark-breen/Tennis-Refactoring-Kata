@@ -1,4 +1,5 @@
 using System;
+using NUnit.Framework;
 
 namespace Tennis.Tests
 {
@@ -51,7 +52,7 @@ namespace Tennis.Tests
         [Test]
         public void CheckTennisGame1()
         {
-            var game = new TennisGame1("player1", "player2");
+            var game = new TennisGame1();
             CheckAllScores(game);
         }
 
@@ -90,7 +91,7 @@ namespace Tennis.Tests
         [Test]
         public void CheckGame1()
         {
-            var game = new TennisGame1("player1", "player2");
+            var game = new TennisGame1();
             RealisticTennisGame(game);
         }
 
